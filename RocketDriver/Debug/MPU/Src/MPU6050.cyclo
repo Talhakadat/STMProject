@@ -1,0 +1,3 @@
+../MPU/Src/MPU6050.c:15:19:MPU_sleep_Mode	3
+../MPU/Src/MPU6050.c:33:19:MPUInitialize	12
+../MPU/Src/MPU6050.c:81:6:MPUGenerateData	1
